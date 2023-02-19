@@ -24,7 +24,7 @@ public class PartTimeStudents extends student1{
     }
 
     public void setNumberOfCourses(int numberOfCourses) {
-        this.numberOfCourses = numberOfCourses;
+        this.numberOfCourses = numberOfCoursesdonebyme;
     }
     
     
